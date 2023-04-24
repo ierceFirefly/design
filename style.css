@@ -1,0 +1,52 @@
+.first1{
+    height: 330px;
+    max-width: min-content;
+    padding-bottom: 100px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    background-color: aqua;
+    box-shadow: 1px 2px 4px black; 
+    position: relative;
+    left: auto;
+    bottom: auto;
+    
+    overflow: auto;
+    
+    
+    
+}
+.first1:hover{ box-shadow: 6px 12px 10px aqua;
+    
+}
+.center12{
+    position: relative;
+    bottom: 200px;
+    overflow: auto;
+    float: right;
+    bottom: 447px;
+    height: 314px;
+    padding-bottom: 100px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    background-color: palevioletred;
+    box-shadow: right 1px 2px 4px black;;
+    max-width: min-content;
+    
+
+}
+.center12:hover{
+    box-shadow: 6px 12px 10px palevioletred;
+}
+.img12{
+    height: 190px;
+    width: 190px;
+    
+}
+.text12{
+    text-align: center;
+    text-transform: capitalize;
+    font-style: italic;
+    font-weight: lighter;
+}
